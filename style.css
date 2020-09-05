@@ -1,0 +1,44 @@
+body{
+    background-color: e0ece4;
+}
+#head{
+    text-align: center;
+    background-color: #0f4c75;
+    color: white;
+    padding-bottom: 2px;
+}
+#Register{
+    padding: 5%;
+    margin: 2%;
+    background-color: whitesmoke;
+    font-size: large;
+    line-height: 4rem;
+}
+#service{
+    padding: 2%;
+    margin: 2%;
+    background-color: #1b262c;
+    color: white;
+}
+#portfolio{
+    padding: 2%;
+    margin: 2%;
+    background-color: #3282b8;
+    color: white;
+}
+#testimonial{
+    text-align: center;
+    padding: 3%;
+}
+#Partner{
+  text-align: center;
+  margin-bottom: 3%;
+}
+#footer{
+    width: 100%;
+    text-align: center;
+    background-color: #febf63;
+}
+.social-media{
+    padding: 2%;
+}
